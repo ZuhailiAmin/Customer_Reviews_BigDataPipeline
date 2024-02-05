@@ -1,4 +1,5 @@
-# 🌟 Tian Tian Hainanese Chicken Rice Restaurant Customer Reviews 🍚
+# 🌟 Tian Tian Hainanese Chicken Rice Restaurant Customer Reviews 🍚 ([![Watch the video](https://img.youtube.com/vi/zm0oXkUFCA8/maxresdefault.jpg)](https://www.youtube.com/watch?v=zm0oXkUFCA8))
+
 
 ## 🔄 Ingestion and Processing Method: Batch Ingestion and Processing
 
@@ -29,18 +30,22 @@
 ### 📊 Findings
 
 #### 🌈 Average Rating by Year
+<img width="662" alt="image" src="https://github.com/ZuhailiAmin/Customer_Reviews_BigDataPipeline/assets/114351563/cb507d7d-1ff4-4b08-b48c-d20ad82660e4">
 
 - Consistently around 3.5-4.5 stars each year.
 
 #### ☁️ Word Cloud of Topic Modeling
+<img width="667" alt="image" src="https://github.com/ZuhailiAmin/Customer_Reviews_BigDataPipeline/assets/114351563/e956554a-e46a-4cc8-a1f6-864e546174dc">
 
 - Chicken and rice were discussed the most, indicating a hot topic among the reviews.
 
 #### 📅 Count of Review by Year
+<img width="672" alt="image" src="https://github.com/ZuhailiAmin/Customer_Reviews_BigDataPipeline/assets/114351563/fb3f101c-40e7-4041-a568-d66b1a94f3f7">
 
 - Dataset consists mostly of reviews in 2019, and the least in 2021.
 
 #### 😊 Count of Records by Sentiment
+<img width="672" alt="image" src="https://github.com/ZuhailiAmin/Customer_Reviews_BigDataPipeline/assets/114351563/5daac852-8f0c-48e7-a470-f09166e15d61">
 
 - Mostly positive reviews.
 
