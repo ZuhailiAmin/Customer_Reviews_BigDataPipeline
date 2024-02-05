@@ -1,0 +1,18 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://is459-assignment2-bda/read/assignment2_tiantian_reviews_new.csv",
+                "s3://is459-assignment2-bda/write/Unsaved/2023/11/22/45cc072d-d3d5-4487-8905-c4d6232b894a.csv",
+                "s3://is459-assignment2-bda/write/yelp-topics/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "\"",
+        "containsHeader": "true"
+    }
+}
+                            
