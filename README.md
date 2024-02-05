@@ -1,4 +1,4 @@
-# 🌟 Tian Tian Hainanese Chicken Rice Restaurant Customer Reviews 🍚 ([![Watch the video](https://img.youtube.com/vi/zm0oXkUFCA8/maxresdefault.jpg)](https://www.youtube.com/watch?v=zm0oXkUFCA8))
+# 🌟 Tian Tian Hainanese Chicken Rice Restaurant Customer Reviews 🍚 ([Watch the video](https://www.youtube.com/watch?v=zm0oXkUFCA8))
 
 
 ## 🔄 Ingestion and Processing Method: Batch Ingestion and Processing
